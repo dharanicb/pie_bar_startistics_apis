@@ -1,0 +1,16 @@
+GET http://localhost:3000/api/init
+
+###
+GET http://localhost:3000/api/statistics/4
+
+###
+GET http://localhost:3000/api/bar-chart/3
+
+###
+GET http://localhost:3000/api/pie-chart/1
+
+###
+GET http://localhost:3000/api/combined/2
+
+###
+
